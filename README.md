@@ -33,7 +33,10 @@
 2021 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" ><br>[E-CERTIFICATE] HELLO NEW WORLD Intellectual Property</a> <br>
+<p align ="left"><a href="https://drive.google.com/file/d/155qHQDvDPf78PPrsQbBp_gAhVsSb7PMZ/view?usp=sharing" ><br>[E-CERTIFICATE] HELLO NEW WORLD Intellectual Property</a> <br>
                    New Era University <br>
                    March 30, 2023 </center></p>
 
+<p align ="left"><a href="https://drive.google.com/file/d/1FXf9TdKmQqvjCnLxmjus2CTRhRExbbjU/view?usp=sharing" ><br>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> <br>
+                  ORACLE UNIVERSITY <br>
+                   November 09, 2023 </center></p>
